@@ -24,7 +24,7 @@ Full-stack web developer and data science engineer interested in cybersecurity
 </p>
 
 <p align="right">
-  <a href="https://twitter.com/el_loco_piccolo"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>|
+  <a href="https://twitter.com/el_loco_piccolo"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
 </p>
 
 <p align="right">
