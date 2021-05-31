@@ -33,7 +33,7 @@ Full-stack web developer and data science engineer interested in cybersecurity
 ### Cloud
 
 <p>
-<img title="AWS" alt="AWS" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
+<img title="AWS" alt="AWS" height="40" width="40" src="https://p.kindpng.com/picc/s/152-1522129_how-to-manage-and-automate-aws-ebs-snapshots.png">
 <img title="Heroku" alt="Heroku" height="40" width="40" src="https://img.icons8.com/color/48/000000/heroku.png">
 </p>
 
