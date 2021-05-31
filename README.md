@@ -15,26 +15,26 @@ Full-stack web developer and data science engineer interested in cybersecurity
 ### Programming Languages
 
 <p>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/>
-<img src = 'https://qph.fs.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.webp' height="30" width="30" />
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height="40" height='40'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' height="40" width='40'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' height="40" width='40'/> 
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' height="40" width='40'/>
+<img src = 'https://qph.fs.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.webp' height="40" width="40" />
 </p>
 
 ### Libraries & Frameworks
 
 <p>
-  <img src = "https://www.fullstackpython.com/img/logos/django.png" height="30" width="30" />
-  <img src = "https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" height="30" width="30" />
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height="30" width="30" />
+  <img src = "https://www.fullstackpython.com/img/logos/django.png" height="40" width="40" />
+  <img src = "https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" height="40" width="40" />
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height="40" width="40" />
 </p>
 
 ### Cloud
 
 <p>
-<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
-<img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png">
+<img title="AWS" alt="AWS" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
+<img title="Heroku" alt="Heroku" height="40" width="40" src="https://img.icons8.com/color/48/000000/heroku.png">
 </p>
 
 ---
