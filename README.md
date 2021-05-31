@@ -9,12 +9,13 @@ Full-stack web developer and data science engineer interested in cybersecurity
 ---
 
 ## Programming Languages
+<p>
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/>
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/>
 <img src = 'https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg' height='30' width='30'/>
-
+</p>
 ---
 
 <p align="right">
