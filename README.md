@@ -10,8 +10,6 @@ Full-stack web developer and data science engineer interested in cybersecurity
 
 ## Skill Set 💪
 
----
-
 ### Programming Languages
 
 <p>
