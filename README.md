@@ -2,8 +2,6 @@
 
 ### I'm Piyush Jain
 
----
-
 Full-stack web developer and data science engineer interested in cybersecurity
 
 ---
