@@ -48,7 +48,7 @@ Full-stack web developer and data science engineer interested in cybersecurity
 </p>
 
 <p align="right">
-  <a href="https://medium.com/@piyushjz"><img alt="Medium" title="Medium" height="32" width="32" src="https://miro.medium.com/max/3150/1*sHhtYhaCe2Uc3IU0IgKwIQ.png"></a>
+  <a href="https://medium.com/@piyushjz"><img alt="Medium" title="Medium" height="32" width="32" src="https://miro.medium.com/max/3404/1*jfdwtvU6V6g99q3G7gq7dQ.png"></a>
 </p>
 
 <p align="right">
