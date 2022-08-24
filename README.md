@@ -15,7 +15,6 @@ Full-stack web developer and data science engineer interested in cybersecurity
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' height="40" width='40'/><nbsp/><nbsp/>
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' height="40" width='40'/><nbsp/><nbsp/>
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' height="40" width='40'/><nbsp/><nbsp/>
-<img src = 'https://qph.fs.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.webp' height="40" width="40" /><nbsp/><nbsp/>
 </p>
 
 ### Libraries & Frameworks
