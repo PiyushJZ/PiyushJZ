@@ -1,8 +1,8 @@
-# Hi 👋
+### { Hello World } 👋
 
 ### I'm Piyush Jain
 
-Full-stack developer experienced in the MERN stack and Next JS.
+#### Full-stack developer experienced in the MERN stack and ML.
 
 ---
 
