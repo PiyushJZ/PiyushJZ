@@ -1,42 +1,68 @@
-### { Hello World } 👋
-
-### I'm Piyush Jain
-
-#### Full stack engineer.
-
----
+# Hello World, I'm Piyush Jain, full stack engineer 👋
 
 ## Skill Set 💪
 
 ### Programming Languages
 
-<div>
-<img src = './static/JSconf_logo-150x150-2314221351.png' height="50" height='50'/><nbsp/><nbsp/>
-<img src = './static/typscript-150x150-2803963426.jpg' height="50" width='50'/><nbsp/>
-<img src = './static/Python-Logo-463755682.gif' height="50" width='50'/><nbsp/><nbsp/>
+<div style='display: flex; gap: 8px;'>
+  <img src = './static/js.png' height="50" height='50'/>
+  <img src = './static/typescript.jpg' height="50" width='50'/>
+  <img src = './static/golang.png' height="50" width='50'/>
+  <img src = './static/java.svg' height="50" width='50'/>
+  <img src = './static/python.webp' height="50" width='50'/>
+</div>
+
+### Databases
+
+<div style='display: flex; gap: 8px;'>
+  <img src = './static/postgres.png' height="50" width='50'/>
+  <img src = './static/mysql.png' height="50" width='50'/>
+  <img src = './static/mongodb.webp' height="50" width='50'/>
+  <img src = './static/redis.png' height="50" width='50'/>
 </div>
 
 ### Libraries & Frameworks
 
-<div>
-<img src = './static/MongoDB-logo-150x150-2750824591.webp' height="50" width='50'/><nbsp/><nbsp/>
-<img src = './static/th-3360599702.jpg' height="50" width='50'/><nbsp/><nbsp/>
-<img src = './static/React-3995254312.png' height="50" width='50'/><nbsp/><nbsp/>
-<img src = './static/node-594046745.png' height="50" width='50'/><nbsp/><nbsp/>
-<img src = './static/Microsoft.VisualStudio.Services.png' height="50" height='50'/><nbsp/><nbsp/>
+<div style='display: flex; gap: 8px;'>
+  <img src = './static/node.png' height="50" width='50'/>
+  <img src = './static/nest.jpg' height="50" width='50'/>
+  <img src = './static/express.jpg' height="50" width='50'/>
+  <img src = './static/React.png' height="50" width='50'/>
+  <img src = './static/vue.jpg' height="50" width='50'/>
 </div>
 
 ### Cloud
 
-<div>
-  <img src = './static/aws-2438379834.jpg' height="50" width='50'/><nbsp/><nbsp/>
-  <img src = './static/firebaselogo-3257553304.jpg' height="50" width='50'/><nbsp/><nbsp/>
+<div style='display: flex; gap: 8px;'>
+  <img src = './static/aws.png' height="40" width='50'/>
+  <img src = './static/gcp.png' height="50" width='50'/>
+  <img src = './static/heroku.png' height="50" width='50'/>
+</div>
+
+### Microservices and Observability
+
+<div style='display: flex; gap: 8px;'>
+  <img src = './static/docker.png' height="50" width='60'/>
+  <img src = './static/kube.png' height="50" width='50'/>
+  <img src = './static/kafka.png' height="50" width='60'/>
+  <img src = './static/rabbit.png' height="50" width='60'/>
+  <img src = './static/grafana.jpeg' height="50" width='60'/>
+</div>
+
+### CI/CD
+
+<div style='display: flex; gap: 8px;'>
+  <img src = './static/actions.png' height="40" width='60'/>
+  <img src = './static/gitlab.webp' height="40" width='60'/>
 </div>
 
 ---
 
-<p align="right">
-  <a href="https://www.linkedin.com/in/piyush-jain-08974319a/"><img alt="LinkedIn" title="LinkedIn" height="40" width="40"                   src="./static/Screen-Shot-2013-08-11-at-6.39.png"></a><nbsp/><nbsp/>
-  <a href="https://twitter.com/el_loco_piccolo"><img alt="Twitter" title="Twitter" height="40" width="40" src="./static/twitter-1265466296.jpg"></a><nbsp/><nbsp/>
-  <a href="https://dev.to/piyushjz"><img alt="Dev.to" title="Dev.to" height="40" width="40" src="./static/proxy-3965835060.png"></a><nbsp/><nbsp/>
+<p style='display: flex; gap: 8px; justify-content: end'>
+  <a href="https://www.linkedin.com/in/piyushjain95">
+    <img alt="LinkedIn" title="LinkedIn" height="40" width="40" src="./static/linkedin.png">
+  </a>
+  <a href="https://twitter.com/el_loco_piccolo">
+    <img alt="Twitter" title="Twitter" height="40" width="40" src="./static/x.png">
+  </a>
 </p>
