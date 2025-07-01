@@ -36,7 +36,6 @@
 <div style='display: flex; gap: 8px;'>
   <img src = './static/aws.png' height="40" width='50'/>
   <img src = './static/gcp.png' height="50" width='50'/>
-  <img src = './static/heroku.png' height="50" width='50'/>
 </div>
 
 ### Microservices and Observability
