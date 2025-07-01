@@ -2,7 +2,7 @@
 
 ### I'm Piyush Jain
 
-#### Full-stack engineer experienced in the MERN stack.
+#### Full stack engineer.
 
 ---
 
