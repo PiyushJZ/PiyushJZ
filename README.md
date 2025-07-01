@@ -59,10 +59,10 @@
 ---
 
 <p style='display: flex; gap: 8px; justify-content: end'>
-  <a href="https://www.linkedin.com/in/piyushjain95">
+  <a href="https://www.linkedin.com/in/piyushjain95" target="blank">
     <img alt="LinkedIn" title="LinkedIn" height="40" width="40" src="./static/linkedin.png">
   </a>
-  <a href="https://twitter.com/el_loco_piccolo">
+  <a href="https://twitter.com/el_loco_piccolo" target="blank">
     <img alt="Twitter" title="Twitter" height="40" width="40" src="./static/x.png">
   </a>
 </p>
